@@ -9,7 +9,7 @@
 
 Call of Duty Api is a promised based wrapper for the "private" API that Activision use on the callofduty.com website.
 
-This wrapper is written in NodeJS and is publicly available on [npm](https://npmjs.org/package/call-of-duty-api).
+This is a project fork with client support!
 
 # Discord
 
