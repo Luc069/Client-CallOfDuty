@@ -9,7 +9,7 @@
 
 Call of Duty Api is a promised based wrapper for the "private" API that Activision use on the callofduty.com website.
 
-This is a project fork with client support!
+This is a project fork with client support, so you can still use [Node-CallOfDuty documentation](https://docs.codapi.dev/).
 
 # Discord
 
@@ -17,6 +17,3 @@ Join the discord: [here](https://discord.gg/NuUpvzC)
 
 # Website
 https://codapi.dev
-
-# Documentation
-You can find documentation [here](https://docs.codapi.dev/).
