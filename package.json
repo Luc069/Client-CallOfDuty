@@ -1,6 +1,6 @@
 {
   "name": "client-call-of-duty-api",
-  "version": "3.1.1",
+  "version": "0.0.1",
   "description": "Client Wrapper for the Call Of Duty API.",
   "main": "dist/index",
   "types": "dist/index",
