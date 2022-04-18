@@ -38,7 +38,7 @@ export const sendRequest = async (url: string) => {
       headers: baseHeaders,
     })
 
-    let data = await res.data()
+    const data = res.data
 
     if (data.status > 299) return data
 
