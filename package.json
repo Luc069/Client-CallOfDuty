@@ -1,7 +1,7 @@
 {
-  "name": "call-of-duty-api",
+  "name": "client-call-of-duty-api",
   "version": "3.1.1",
-  "description": "NodeJS Wrapper for the Call Of Duty API.",
+  "description": "Client Wrapper for the Call Of Duty API.",
   "main": "dist/index",
   "types": "dist/index",
   "files": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lierrmm/Node-CallOfDuty.git"
+    "url": "git+https://github.com/Luc069/Client-CallOfDuty.git"
   },
   "keywords": [
     "br",
@@ -35,14 +35,10 @@
     "Raven"
   ],
   "bugs": {
-    "url": "https://github.com/Lierrmm/Node-CallOfDuty/issues"
+    "url": "https://github.com/Luc069/Client-CallOfDuty/issues"
   },
   "homepage": "https://codapi.dev",
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/Lierrmm"
-  },
-  "author": "Liam Gaskell",
+  "author": "Luc",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.21",
